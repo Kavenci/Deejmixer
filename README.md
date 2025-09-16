@@ -5,6 +5,15 @@ Built to integrate with [deej](https://github.com/omriharel/deej) or your own cu
 
 ---
 
+## Images
+<img width="1440" height="1920" alt="image" src="https://github.com/user-attachments/assets/497e2fd9-5527-491a-a53b-06181ba9585a" />
+<img width="1440" height="1920" alt="image" src="https://github.com/user-attachments/assets/f2f243d8-dd11-41d2-abe7-d82839b0874f" />
+<img width="1440" height="1920" alt="image" src="https://github.com/user-attachments/assets/578a54bd-6868-40d4-a464-2e4f22eafe7d" />
+
+
+
+
+
 ## ✨ Features
 
 - **9 Analog Inputs** (5 sliders + 4 pots).  
@@ -24,7 +33,7 @@ Built to integrate with [deej](https://github.com/omriharel/deej) or your own cu
 
 ## 🛠️ Materials
 
-- **ESP32 Dev Board** (NodeMCU-32S, WROOM, etc.)  
+- **ESP32 Dev Board** (NodeMCU-32S, WROOM, etc.) [Aliexpress](  
 - **5× 10k Potentiometer Sliders** (B103 Used)
 - **25× WS2812B LEDs** (5 strips of 5)  
 - **1× Momentary Push Button** (12 mm recommended)  
