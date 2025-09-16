@@ -1,17 +1,17 @@
-# ESP32 LED Mixer with OTA
+# ESP32 Deej Mixer
 
-A DIY ESP32-based audio mixer controller with **9 sliders**, **RGB LED matrix feedback**, and **OTA firmware updates via captive portal**.  
+A DIY ESP32-based audio mixer controller with **5 Sliders**, **4 Knobs**, **RGB Effects & feedback**, and **OTA firmware updates built in**.  
 Built to integrate with [deej](https://github.com/omriharel/deej) or your own custom setups.  
 
 ---
 
 ## ✨ Features
 
-- **9 Analog Inputs** (5 sliders + 4 pots, or any combo).  
-- **5×5 WS2812B LED Matrix** with multiple effects: rainbow, meteor, breathing, vertical/column/diagonal waves, raindrop sparkle.  
+- **9 Analog Inputs** (5 sliders + 4 pots).  
+- **Led Backlighting with multiple effects: rainbow, meteor, breathing, vertical/column/diagonal waves, raindrop sparkle.  
 - **Mode Button**:
   - Short press → cycle LED effects.  
-  - Long press (5s) → start OTA update mode (Wi-Fi AP with captive portal).  
+  - Long press (5s) → start OTA update mode (Via Wi-Fi AP).  
 - **OTA Updates**:
   - ESP32 creates its own Wi-Fi AP (`DeeJ-OTA` / `flashme123`).  
   - Connect, auto-open the captive portal, and upload a `.bin` firmware.  
@@ -25,11 +25,11 @@ Built to integrate with [deej](https://github.com/omriharel/deej) or your own cu
 ## 🛠️ Materials
 
 - **ESP32 Dev Board** (NodeMCU-32S, WROOM, etc.)  
-- **9× 10k Potentiometers** (sliders or rotaries, mix as you prefer)  
-- **25× WS2812B LEDs** (5×5 grid, or 5 strips of 5)  
+- **5× 10k Potentiometer Sliders** (B103 Used)
+- **25× WS2812B LEDs** (5 strips of 5)  
 - **1× Momentary Push Button** (12 mm recommended)  
 - **Wires, headers, USB cable**  
-- *(Optional)* 3D-printed case, knobs, and panel  
+- 3D-printed case, knobs, and panel  
 
 ---
 
@@ -92,7 +92,8 @@ Built to integrate with [deej](https://github.com/omriharel/deej) or your own cu
 You can design or remix a case with:  
 - 9 slots for sliders/pots  
 - Button cut-out  
-- 5×5 LED diffuser grid  
+
+Otherwise I used [Mixer Pc Volumes by SimGear Customs (RaFFaueQ)](https://www.printables.com/model/919405-mixer-pc-volumes-with-led-deej)
 
 Knobs can be found on [Printables](https://www.printables.com) or [MakerWorld](https://makerworld.com).  
 
