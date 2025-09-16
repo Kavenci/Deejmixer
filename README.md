@@ -10,6 +10,10 @@ Built to integrate with [deej](https://github.com/omriharel/deej) or your own cu
 <img width="1440" height="1920" alt="image" src="https://github.com/user-attachments/assets/f2f243d8-dd11-41d2-abe7-d82839b0874f" />
 <img width="1440" height="1920" alt="image" src="https://github.com/user-attachments/assets/578a54bd-6868-40d4-a464-2e4f22eafe7d" />
 
+| ![IMG_4483](https://github.com/user-attachments/assets/497e2fd9-5527-491a-a53b-06181ba9585a) | ![IMG_4482](https://github.com/user-attachments/assets/f2f243d8-dd11-41d2-abe7-d82839b0874f) |
+|:--------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------:|
+| ![IMG_4485](https://github.com/user-attachments/assets/578a54bd-6868-40d4-a464-2e4f22eafe7d) |
+
 
 
 
